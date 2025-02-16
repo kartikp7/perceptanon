@@ -20,7 +20,7 @@
 - [Main Results](#main-results)
   - [Dataset Splits](#dataset-splits)
   - [Training/Evaluation](#trainingevaluation)
-  - [Evaluation](#evaluation)
+  - [Metrics](#metrics)
   - [Visualization](#visualization)
 - [Citation](#citation)
 
@@ -89,7 +89,7 @@ Provided weights are on 'all' train-test configuration. Other pretrained models 
 | ResNet50  | HA1   | clf     | mean               | 0.88 / 0.70         | [link]()                 |
 
 
-### Evaluation
+### Metrics
 
 `eval.py` contains codes for evaluating PerceptAnon networks. To compute other reported metrics like SSIM, FID, etc please see [metrics/](./metrics/).
 
