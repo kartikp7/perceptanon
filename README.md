@@ -82,11 +82,12 @@ python run_experiments.py -h
 
 #### Trained Model Weights
 
-Provided weights are on 'all' train-test configuration. Other pretrained models will be added soon!
+Provided weights are on 'all' train-test dataset split configuration. Other pretrained models will be added soon!
 
 |   Arch.   | HA1/HA2 | Clf/Reg | Label Gran. | (ρ/τ) | Model |
 |-----------|--------|---------|------------------|----------------------|-------------------------|
-| ResNet50  | HA1   | clf     | mean               | 0.88 / 0.70         | [link]()                 |
+| ResNet50  | HA1   | clf     | 10               | 0.90 / 0.84         | [link](https://drive.google.com/file/d/1L4NEA-uNLZiDSN9p-nyZlEEVDRBr47Wz/view?usp=sharing)                 |
+| ResNet50  | HA1   | reg     | mean               | 0.88 / 0.70         | [link](https://drive.google.com/file/d/1XBPC9XghGOLhGxnmzspKmhwVZ6C4WFbt/view?usp=sharing)                 |
 
 
 ### Metrics
