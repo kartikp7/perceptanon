@@ -67,13 +67,17 @@ Run the script using the following command:
 
 ```bash
 python run_experiments.py --ha_mode <HA1/HA2> \
---data_root <path_to_dataset> \
---split_type <dataset_split> \
---label_type <label_granularity> \
---model_name <base_architecture> \[options]
+    --data_root <path_to_dataset> \
+    --split_type <dataset_split> \
+    --label_type <label_granularity> \
+    --model_name <base_architecture> \
+    [options]
 ```
 
-Please see `run_experiments.py` or run `run_experiments.py -h` for more details.
+For more details, refer to `run_experiments.py` or run:
+```bash
+python run_experiments.py -h
+```
 
 #### Trained Model Weights
 
