@@ -4,7 +4,8 @@
 
 <div align="center">
 
-[Paper](https://proceedings.mlr.press/v235/patwari24a.html) · [Project Page](https://kartikp7.github.io/perceptanon_project_page/)
+[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://kartikp7.github.io/perceptanon_project_page/)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://proceedings.mlr.press/v235/patwari24a.html)
 
 <p align="center">
 <img src="assets/overview.png" width="500">
